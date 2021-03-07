@@ -1,0 +1,1 @@
+# Strict-full-project
